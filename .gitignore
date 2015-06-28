@@ -11,3 +11,4 @@
 .settings/
 bin/**
 target/**
+/target/
